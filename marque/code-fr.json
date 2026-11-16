@@ -1,0 +1,9 @@
+[
+  ["isValidLanguageCode(providedLang) ? providedLang : APP_I18N_OPTIONS.sourceLang", "isValidLanguageCode(providedLang) ? providedLang : \"fr\""],
+  ["instances[APP_I18N_OPTIONS.sourceLang]", "instances[\"fr\"]"],
+  ["documentLanguage: 'en',", "documentLanguage: 'fr',"],
+  ["documentLanguage: \"en\",", "documentLanguage: \"fr\","],
+  ["FluxSign, Inc.", "Agence Flux Digital"],
+  ["2261 Market Street, #5211, San Francisco, CA 94114, USA", "32 rue Gosselin Lenôtre, 78120 Rambouillet, France"],
+  ["Join FluxSign, the open signing infrastructure, and get a 10x better signing experience. Pricing starts at $30/mo. forever! Sign in now and enjoy a faster, smarter, and more beautiful document signing process. Integrates with your favorite tools, customizable, and expandable. Support our mission and become a part of our open-source community.", "FluxSign, la signature électronique de l'Agence Flux Digital : faites signer vos devis et contrats en ligne, simplement et en toute sécurité."]
+]
